@@ -1,0 +1,40 @@
+! 12/31/2016, 3:55:23 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
+probasket.pl##.shortocde-content.panel-content > div:nth-of-type(4)
+
+! 12/31/2016, 3:56:26 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
+probasket.pl##.widget.first.widget-1.widget-odd.widget-first.widget-1 > .banner
+
+! 12/31/2016, 3:56:38 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
+probasket.pl##.header-banner
+
+! 12/31/2016, 3:56:53 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
+probasket.pl##.widget.widget-4.widget-even.widget-4 > .banner
+
+! 12/31/2016, 3:57:35 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
+probasket.pl###sidebar .banner
+
+! 12/31/2016, 3:58:01 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
+probasket.pl##.widget.widget-13.widget-odd.widget-13 > .textwidget
+
+! 12/31/2016, 3:58:13 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
+probasket.pl##.widget.widget-18.widget-even.widget-18 > .textwidget
+
+! 12/31/2016, 3:58:23 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
+probasket.pl##.widget.widget-14.widget-even.widget-14 > .textwidget
+
+! 12/31/2016, 3:58:34 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
+probasket.pl##.widget.widget-12.widget-even.widget-12 > .textwidget
+
+! 12/31/2016, 3:59:43 PM http://probasket.pl/
+probasket.pl##.row.paragraph-row:nth-of-type(2) > .column12 > .banner.def-panel
+
+! 12/31/2016, 4:00:30 PM http://probasket.pl/
+probasket.pl##.main-content .banner
+
+! 5/19/2017, 3:58:08 PM http://www.benchmark.pl/
+www.benchmark.pl##.screenField
+
+! 5/19/2017, 4:00:01 PM http://www.benchmark.pl/
+||www.benchmark.pl/uploads/backend_img/c/marketing/2017-05/screening_01.jpg$image
+
+
