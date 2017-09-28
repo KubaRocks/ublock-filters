@@ -37,5 +37,5 @@ www.benchmark.pl##.screenField
 ! 5/19/2017, 4:00:01 PM http://www.benchmark.pl/
 ||www.benchmark.pl/uploads/backend_img/c/marketing/2017-05/screening_01.jpg$image
 
-! 9/28/2017, 17:45:01 PM http://www.gwiazdybasketu.pl/
+! 9/28/2017, 5:45:01 PM http://www.gwiazdybasketu.pl/
 gwiazdybasketu.pl##.banner-container
