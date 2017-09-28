@@ -37,5 +37,14 @@ www.benchmark.pl##.screenField
 ! 5/19/2017, 4:00:01 PM http://www.benchmark.pl/
 ||www.benchmark.pl/uploads/backend_img/c/marketing/2017-05/screening_01.jpg$image
 
+! 9/28/2017, 1:03:53 AM http://www.benchmark.pl/
+www.benchmark.pl##a[href="https://www.komputronik.pl/lp/note-8/"]
+
 ! 9/28/2017, 5:45:01 PM http://www.gwiazdybasketu.pl/
 gwiazdybasketu.pl##.banner-container
+
+! 9/28/2017, 5:50:01 PM http://www.gwiazdybasketu.pl/
+gwiazdybasketu.pl##iframe[src^="/iframe/"]
+
+! 9/28/2017, 5:57:01 PM http://www.gwiazdybasketu.pl/
+gwiazdybasketu.pl##a[href^="/r.php"]
