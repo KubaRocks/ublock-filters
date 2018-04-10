@@ -1,3 +1,19 @@
+! Checksum: 
+! Title: gen.jusz's uBlock filters
+! Codename: gen.jusz's uBlock filters
+! Collaborators: gen.jusz
+! Homepage: http://kuba.florczuk.pl/
+! Last modified: 10 April 2018
+! Expires: 2 days
+! Version: 2018041001
+! Support: 
+!   Github >> https://github.com/genjusz/ublock-filters
+! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+! Copyright (C) 2018 Kuba Florczuk
+! Najnowsza wersja zawsze na:  https://raw.githubusercontent.com/genjusz/ublock-filters/master/ublock.txt
+! v.2018041001 aktualizacja: pon, 10 kwietnia 2018, 22:07:00
+
+
 ! 12/31/2016, 3:55:23 PM http://probasket.pl/czy-shaq-odczepi-sie-od-javalea-mcgee/
 probasket.pl##.shortocde-content.panel-content > div:nth-of-type(4)
 
