@@ -51,3 +51,10 @@ gwiazdybasketu.pl##a[href^="/r.php"]
 
 ! 9/29/2017, 12:34:25 AM https://www.purepc.pl/oprogramowanie/mozilla_firefox_quantum_nowa_wersja_slynnej_przegladarki
 www.purepc.pl##body > div[style="position:relative;width:960px;padding:10px 20px;margin:10px auto 0;background:yellow"]
+
+! 4/10/2018, 9:57:37 PM https://imagazine.pl/
+imagazine.pl###calendar-promo
+
+! 4/10/2018, 9:57:57 PM https://imagazine.pl/
+imagazine.pl##.textwidget > .banner
+
